@@ -1,24 +1,24 @@
 /*!
- *  Sidicon  v0.0.1
- *  Sidicon icon font.
+ *  sid-icon  v0.0.4
+ *  sid-icon icon font.
  */
 @font-face {
   font-display: auto;
-  font-family: "Sidicon";
+  font-family: "sid-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./sid.eot?1697798680322);
+  src: url(./sid.eot?1698383193932);
   src: url(./sid.eot?#iefix) format("embedded-opentype"),
-    url(./sid.woff2?1697798680322) format("woff2"),
-    url(./sid.woff?1697798680322) format("woff"),
-    url(./sid.ttf?1697798680322) format("truetype"),
-    url(./sid.svg?1697798680322#Sidicon) format("svg");
+    url(./sid.woff2?1698383193932) format("woff2"),
+    url(./sid.woff?1698383193932) format("woff"),
+    url(./sid.ttf?1698383193932) format("truetype"),
+    url(./sid.svg?1698383193932#sid-icon) format("svg");
 }
 [class*=" sid-"],
 [class="sid"],
 [class^="sid-"] {
   display: inline-block;
-  font-family: "Sidicon";
+  font-family: "sid-icon";
   font-weight: 400;
   font-style: normal;
   font-variant: normal;
@@ -3456,3 +3456,4 @@
 .sid-users-fill:before {
   content: "\e478";
 }
+/*# sourceMappingURL=sid.min.css */
