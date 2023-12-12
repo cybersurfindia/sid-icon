@@ -7,8 +7,12 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./sd.eot?1698900678400");
-  src: url("./sd.eot?#iefix") format("embedded-opentype"), url("./sd.woff2?1698900678400") format("woff2"), url("./sd.woff?1698900678400") format("woff"), url("./sd.ttf?1698900678400") format("truetype"), url("./sd.svg?1698900678400#sd-icon") format("svg");
+  src: url("./sd.eot?1702361311946");
+  src: url("./sd.eot?#iefix") format("embedded-opentype"), 
+  url("./sd.woff2?1702361311946") format("woff2"), 
+  url("./sd.woff?1702361311946") format("woff"), 
+  url("./sd.ttf?1702361311946") format("truetype"), 
+  url("./sd.svg?1702361311946#sd-icon") format("svg");
 }
 
 [class="sd"], [class^="sd-"], [class*=" sd-"] {
@@ -4527,6 +4531,14 @@
   content: "\e465";
 }
 
+.sd-dart-mission-goal-success_svgrepo-com:before {
+  content: "\e466";
+}
+
+.sd-help:before {
+  content: "\e467";
+}
+
 .sd-pmkvy-fill:before {
   content: "\e468";
 }
@@ -4593,4 +4605,8 @@
 
 .sd-users-fill:before {
   content: "\e478";
+}
+
+.sd-notifications:before {
+  content: "\e479";
 }
