@@ -7,15 +7,17 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./sd.eot?1702361311946");
-  src: url("./sd.eot?#iefix") format("embedded-opentype"), 
-  url("./sd.woff2?1702361311946") format("woff2"), 
-  url("./sd.woff?1702361311946") format("woff"), 
-  url("./sd.ttf?1702361311946") format("truetype"), 
-  url("./sd.svg?1702361311946#sd-icon") format("svg");
+  src: url("./sd.eot?1703073445120");
+  src: url("./sd.eot?#iefix") format("embedded-opentype"),
+    url("./sd.woff2?1703073445120") format("woff2"),
+    url("./sd.woff?1703073445120") format("woff"),
+    url("./sd.ttf?1703073445120") format("truetype"),
+    url("./sd.svg?1703073445120#sd-icon") format("svg");
 }
 
-[class="sd"], [class^="sd-"], [class*=" sd-"] {
+[class="sd"],
+[class^="sd-"],
+[class*=" sd-"] {
   display: inline-block;
   font-family: "sd-icon";
   font-weight: 400;
@@ -4609,4 +4611,8 @@
 
 .sd-notifications:before {
   content: "\e479";
+}
+
+.sd-recomandation:before {
+  content: "\e47a";
 }
