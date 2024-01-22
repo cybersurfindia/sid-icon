@@ -7,12 +7,12 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./sd.eot?1703073445120");
+  src: url("./sd.eot?1705643398811");
   src: url("./sd.eot?#iefix") format("embedded-opentype"),
-    url("./sd.woff2?1703073445120") format("woff2"),
-    url("./sd.woff?1703073445120") format("woff"),
-    url("./sd.ttf?1703073445120") format("truetype"),
-    url("./sd.svg?1703073445120#sd-icon") format("svg");
+    url("./sd.woff2?1705643398811") format("woff2"),
+    url("./sd.woff?1705643398811") format("woff"),
+    url("./sd.ttf?1705643398811") format("truetype"),
+    url("./sd.svg?1705643398811#sd-icon") format("svg");
 }
 
 [class="sd"],
@@ -4615,4 +4615,184 @@
 
 .sd-recomandation:before {
   content: "\e47a";
+}
+
+.sd-users-x:before {
+  content: "\e47b";
+}
+
+.sd-users-up:before {
+  content: "\e47c";
+}
+
+.sd-users-right:before {
+  content: "\e47d";
+}
+
+.sd-users-plus:before {
+  content: "\e47e";
+}
+
+.sd-users-minus:before {
+  content: "\e47f";
+}
+
+.sd-users-left:before {
+  content: "\e480";
+}
+
+.sd-users-edit:before {
+  content: "\e481";
+}
+
+.sd-users-down:before {
+  content: "\e482";
+}
+
+.sd-users-check:before {
+  content: "\e483";
+}
+
+.sd-users-03:before {
+  content: "\e484";
+}
+
+.sd-users-02:before {
+  content: "\e485";
+}
+
+.sd-users-01:before {
+  content: "\e486";
+}
+
+.sd-user-x-02:before {
+  content: "\e487";
+}
+
+.sd-user-x-01:before {
+  content: "\e488";
+}
+
+.sd-user-up-02:before {
+  content: "\e489";
+}
+
+.sd-user-up-01:before {
+  content: "\e48a";
+}
+
+.sd-user-square:before {
+  content: "\e48b";
+}
+
+.sd-user-right-02:before {
+  content: "\e48c";
+}
+
+.sd-user-right-01:before {
+  content: "\e48d";
+}
+
+.sd-user-check-01:before {
+  content: "\e48e";
+}
+
+.sd-user-03:before {
+  content: "\e48f";
+}
+
+.sd-user-02:before {
+  content: "\e490";
+}
+
+.sd-user-01:before {
+  content: "\e491";
+}
+
+.sd-icon:before {
+  content: "\e492";
+}
+
+.sd-icon-9:before {
+  content: "\e493";
+}
+
+.sd-icon-8:before {
+  content: "\e494";
+}
+
+.sd-icon-7:before {
+  content: "\e495";
+}
+
+.sd-icon-6:before {
+  content: "\e496";
+}
+
+.sd-icon-5:before {
+  content: "\e497";
+}
+
+.sd-icon-4:before {
+  content: "\e498";
+}
+
+.sd-icon-3:before {
+  content: "\e499";
+}
+
+.sd-icon-2:before {
+  content: "\e49a";
+}
+
+.sd-icon-10:before {
+  content: "\e49b";
+}
+
+.sd-icon-1:before {
+  content: "\e49c";
+}
+
+.sd-face-wink:before {
+  content: "\e49d";
+}
+
+.sd-face-smile:before {
+  content: "\e49e";
+}
+
+.sd-face-sad:before {
+  content: "\e49f";
+}
+
+.sd-face-neutral:before {
+  content: "\e4a0";
+}
+
+.sd-face-happy:before {
+  content: "\e4a1";
+}
+
+.sd-face-frown:before {
+  content: "\e4a2";
+}
+
+.sd-face-content:before {
+  content: "\e4a3";
+}
+
+.sd-video-call-webcam:before {
+  content: "\e4a4";
+}
+
+.sd-pmu:before {
+  content: "\e4a5";
+}
+
+.sd-teacher-with-stick:before {
+  content: "\e4a6";
+}
+
+.sd-admin-with-cogwheels:before {
+  content: "\e4a7";
 }
