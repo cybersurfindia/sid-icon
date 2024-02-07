@@ -1,5 +1,5 @@
 /*!
- *  sd-icon  v0.0.8
+ *  sd-icon  v0.0.9
  *  sd-icon icon font.
  */
 @font-face {
@@ -7,12 +7,12 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./sd.eot?1705643398811);
+  src: url(./sd.eot?1707296422268);
   src: url(./sd.eot?#iefix) format("embedded-opentype"),
-    url(./sd.woff2?1705643398811) format("woff2"),
-    url(./sd.woff?1705643398811) format("woff"),
-    url(./sd.ttf?1705643398811) format("truetype"),
-    url(./sd.svg?1705643398811#sd-icon) format("svg");
+    url(./sd.woff2?1707296422268) format("woff2"),
+    url(./sd.woff?1707296422268) format("woff"),
+    url(./sd.ttf?1707296422268) format("truetype"),
+    url(./sd.svg?1707296422268#sd-icon) format("svg");
 }
 [class*=" sd-"],
 [class="sd"],
@@ -3602,5 +3602,35 @@
 }
 .sd-admin-with-cogwheels:before {
   content: "\e4a7";
+}
+.sd-scheme:before {
+  content: "\e4a9";
+}
+.sd-near-me:before {
+  content: "\e4ab";
+}
+.sd-learning-head-book-education:before {
+  content: "\e4ac";
+}
+.sd-currency-rupee-circle-2:before {
+  content: "\e4ad";
+}
+.sd-code-square-02-2:before {
+  content: "\e4ae";
+}
+.sd-school:before {
+  content: "\e4af";
+}
+.sd-international-travel:before {
+  content: "\e4b0";
+}
+.sd-hierarchy:before {
+  content: "\e4b1";
+}
+.sd-graduating-girl:before {
+  content: "\e4b2";
+}
+.sd-government-building-power:before {
+  content: "\e4b3";
 }
 /*# sourceMappingURL=sd.min.css */
