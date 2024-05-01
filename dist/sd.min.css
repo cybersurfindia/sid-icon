@@ -7,12 +7,12 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./sd.eot?1707296422268);
+  src: url(./sd.eot?1714456303976);
   src: url(./sd.eot?#iefix) format("embedded-opentype"),
-    url(./sd.woff2?1707296422268) format("woff2"),
-    url(./sd.woff?1707296422268) format("woff"),
-    url(./sd.ttf?1707296422268) format("truetype"),
-    url(./sd.svg?1707296422268#sd-icon) format("svg");
+    url(./sd.woff2?1714456303976) format("woff2"),
+    url(./sd.woff?1714456303976) format("woff"),
+    url(./sd.ttf?1714456303976) format("truetype"),
+    url(./sd.svg?1714456303976#sd-icon) format("svg");
 }
 [class*=" sd-"],
 [class="sd"],
@@ -26,9 +26,6 @@
   line-height: 1;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-}
-.sd-zap:before {
-  content: "\e000";
 }
 .sd-zap-square:before {
   content: "\e001";
@@ -3336,7 +3333,7 @@
 .sd-teacher:before {
   content: "\e44e";
 }
-.sd-training-centers-transparent:before {
+.sd-heart-rounded-2:before {
   content: "\e44f";
 }
 .sd-setting-tools:before {
@@ -3348,11 +3345,8 @@
 .sd-network-1:before {
   content: "\e452";
 }
-.sd-assessment-agency:before {
+.sd-certificate:before {
   content: "\e453";
-}
-.sd-setting-admin-fill:before {
-  content: "\e454";
 }
 .sd-learning-partner:before {
   content: "\e455";
@@ -3378,95 +3372,29 @@
 .sd-building-1:before {
   content: "\e45c";
 }
-.sd-schedule:before {
+.sd-user-graduate-fill-2:before {
   content: "\e45d";
 }
-.sd-location-on:before {
+.sd-university-fill-2:before {
   content: "\e45e";
 }
-.sd-handshake-solid-1:before {
+.sd-training-centers-transparent-2:before {
   content: "\e45f";
 }
 .sd-mobiliser-2:before {
   content: "\e460";
 }
-.sd-globe-uk:before {
+.sd-skill-india-map-2:before {
   content: "\e461";
 }
-.sd-event:before {
+.sd-setting-admin-fill-2:before {
   content: "\e462";
 }
-.sd-user-graduate-fill:before {
-  content: "\e463";
-}
-.sd-university-fill:before {
-  content: "\e464";
-}
-.sd-cloud-sun-02-2:before {
-  content: "\e465";
-}
-.sd-dart-mission-goal-success_svgrepo-com:before {
-  content: "\e466";
-}
-.sd-help:before {
-  content: "\e467";
-}
-.sd-pmkvy-fill:before {
-  content: "\e468";
-}
-.sd-map-location:before {
-  content: "\e469";
-}
-.sd-mortarboard-1:before {
-  content: "\e46a";
-}
-.sd-job-search-symbol-of-a-man-with-dollar-coin:before {
-  content: "\e46b";
-}
-.sd-industry-fill:before {
-  content: "\e46c";
-}
-.sd-handshake-solid-1-2:before {
+.sd-users-fill-2:before {
   content: "\e46d";
 }
-.sd-give-location-share:before {
-  content: "\e46e";
-}
-.sd-briefcase-fill:before {
-  content: "\e46f";
-}
-.sd-employee-organization-fill:before {
-  content: "\e470";
-}
-.sd-employee-contact:before {
-  content: "\e471";
-}
-.sd-skill-india-map:before {
-  content: "\e472";
-}
-.sd-document-round:before {
-  content: "\e473";
-}
-.sd-class-fill:before {
-  content: "\e474";
-}
-.sd-fill-star:before {
-  content: "\e475";
-}
-.sd-certificate-online-achievement:before {
-  content: "\e476";
-}
-.sd-a-icon:before {
-  content: "\e477";
-}
-.sd-users-fill:before {
+.sd-recomandation-2:before {
   content: "\e478";
-}
-.sd-notifications:before {
-  content: "\e479";
-}
-.sd-recomandation:before {
-  content: "\e47a";
 }
 .sd-users-x:before {
   content: "\e47b";
@@ -3603,20 +3531,14 @@
 .sd-admin-with-cogwheels:before {
   content: "\e4a7";
 }
+.sd-hierarchy-2:before {
+  content: "\e4a8";
+}
 .sd-scheme:before {
   content: "\e4a9";
 }
-.sd-near-me:before {
-  content: "\e4ab";
-}
 .sd-learning-head-book-education:before {
   content: "\e4ac";
-}
-.sd-currency-rupee-circle-2:before {
-  content: "\e4ad";
-}
-.sd-code-square-02-2:before {
-  content: "\e4ae";
 }
 .sd-school:before {
   content: "\e4af";
@@ -3633,4 +3555,108 @@
 .sd-government-building-power:before {
   content: "\e4b3";
 }
-/*# sourceMappingURL=sd.min.css */
+.sd-grid-01-2:before {
+  content: "\e4b4";
+}
+.sd-graduating-girl-2:before {
+  content: "\e4b5";
+}
+.sd-government-building-building-museum:before {
+  content: "\e4b6";
+}
+.sd-globe-02-3:before {
+  content: "\e4b7";
+}
+.sd-schedule-2:before {
+  content: "\e4b8";
+}
+.sd-emblem:before {
+  content: "\e4b9";
+}
+.sd-location-on-2:before {
+  content: "\e4ba";
+}
+.sd-handshake-solid-1-2:before {
+  content: "\e4bb";
+}
+.sd-globe-uk-2:before {
+  content: "\e4bc";
+}
+.sd-event-2:before {
+  content: "\e4bd";
+}
+.sd-city:before {
+  content: "\e4be";
+}
+.sd-pmkvy-fill-2:before {
+  content: "\e4bf";
+}
+.sd-notifications-2:before {
+  content: "\e4c0";
+}
+.sd-certified:before {
+  content: "\e4c1";
+}
+.sd-certificate-01-2:before {
+  content: "\e4c3";
+}
+.sd-book-open-01-2:before {
+  content: "\e4c4";
+}
+.sd-mortarboard-1-2:before {
+  content: "\e4c5";
+}
+.sd-bolt-auto-1:before {
+  content: "\e4c6";
+}
+.sd-job-search-symbol-of-a-man-with-dollar-coin-2:before {
+  content: "\e4c7";
+}
+.sd-24-connect:before {
+  content: "\e4c8";
+}
+.sd-industry-fill-2:before {
+  content: "\e4c9";
+}
+.sd-help-2:before {
+  content: "\e4ca";
+}
+.sd-give-location-share-2:before {
+  content: "\e4cb";
+}
+.sd-fill-star-2:before {
+  content: "\e4cc";
+}
+.sd-employee-organization-fill-2:before {
+  content: "\e4cd";
+}
+.sd-employee-contact-2:before {
+  content: "\e4ce";
+}
+.sd-document-round-2:before {
+  content: "\e4cf";
+}
+.sd-dart-mission-goal-success_svgrepo-com-2:before {
+  content: "\e4d0";
+}
+.sd-cloud-sun-02-2-2:before {
+  content: "\e4d1";
+}
+.sd-class-fill-2:before {
+  content: "\e4d2";
+}
+.sd-briefcase-fill-2:before {
+  content: "\e4d3";
+}
+.sd-assessment-agency-2:before {
+  content: "\e4d4";
+}
+.sd-map-location-2:before {
+  content: "\e4d5";
+}
+.sd-certificate-online-achievement-2:before {
+  content: "\e4d6";
+}
+.sd-a-icon-2:before {
+  content: "\e4d7";
+}
