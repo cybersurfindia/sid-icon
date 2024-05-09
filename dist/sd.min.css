@@ -1,5 +1,5 @@
 /*!
- *  sd-icon  v0.0.9
+ *  sd-icon  v0.0.10
  *  sd-icon icon font.
  */
 @font-face {
@@ -7,12 +7,12 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./sd.eot?1714456303976);
+  src: url(./sd.eot?1715256455577);
   src: url(./sd.eot?#iefix) format("embedded-opentype"),
-    url(./sd.woff2?1714456303976) format("woff2"),
-    url(./sd.woff?1714456303976) format("woff"),
-    url(./sd.ttf?1714456303976) format("truetype"),
-    url(./sd.svg?1714456303976#sd-icon) format("svg");
+    url(./sd.woff2?1715256455577) format("woff2"),
+    url(./sd.woff?1715256455577) format("woff"),
+    url(./sd.ttf?1715256455577) format("truetype"),
+    url(./sd.svg?1715256455577#sd-icon) format("svg");
 }
 [class*=" sd-"],
 [class="sd"],
@@ -26,6 +26,9 @@
   line-height: 1;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+}
+.sd-in-progress:before {
+  content: "\e000";
 }
 .sd-zap-square:before {
   content: "\e001";
@@ -3348,6 +3351,9 @@
 .sd-certificate:before {
   content: "\e453";
 }
+.sd-bolt-fill:before {
+  content: "\e454";
+}
 .sd-learning-partner:before {
   content: "\e455";
 }
@@ -3389,6 +3395,9 @@
 }
 .sd-setting-admin-fill-2:before {
   content: "\e462";
+}
+.sd-beenhere-fill:before {
+  content: "\e463";
 }
 .sd-users-fill-2:before {
   content: "\e46d";
@@ -3549,12 +3558,6 @@
 .sd-hierarchy:before {
   content: "\e4b1";
 }
-.sd-graduating-girl:before {
-  content: "\e4b2";
-}
-.sd-government-building-power:before {
-  content: "\e4b3";
-}
 .sd-grid-01-2:before {
   content: "\e4b4";
 }
@@ -3636,7 +3639,7 @@
 .sd-document-round-2:before {
   content: "\e4cf";
 }
-.sd-dart-mission-goal-success_svgrepo-com-2:before {
+.sd-dart-mission-goal-success:before {
   content: "\e4d0";
 }
 .sd-cloud-sun-02-2-2:before {
@@ -3660,3 +3663,5 @@
 .sd-a-icon-2:before {
   content: "\e4d7";
 }
+
+/*# sourceMappingURL=sd.min.css */
