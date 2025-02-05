@@ -7,19 +7,19 @@
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url("./sd.eot?1715256455577");
+  src: url("./sd.eot?1738673280749");
   src: url("./sd.eot?#iefix") format("embedded-opentype"),
-    url("./sd.woff2?1715256455577") format("woff2"),
-    url("./sd.woff?1715256455577") format("woff"),
-    url("./sd.ttf?1715256455577") format("truetype"),
-    url("./sd.svg?1715256455577#sd-icon") format("svg");
+    url("./sd.woff2?1738673280749") format("woff2"),
+    url("./sd.woff?1738673280749") format("woff"),
+    url("./sd.ttf?1738673280749") format("truetype"),
+    url("./sd.svg?1738673280749#sd-icon") format("svg");
 }
 
 [class="sd"],
 [class^="sd-"],
 [class*=" sd-"] {
   display: inline-block;
-  font-family: "sd-icon";
+  font-family: "sd-icon" !important;
   font-weight: 400;
   font-style: normal;
   font-variant: normal;
@@ -4525,8 +4525,80 @@
   content: "\e463";
 }
 
+.sd-calendar-star-01:before {
+  content: "\e464";
+}
+
+.sd-translate-01-2:before {
+  content: "\e465";
+}
+
+.sd-seat-count:before {
+  content: "\e466";
+}
+
+.sd-play-fill:before {
+  content: "\e467";
+}
+
+.sd-mobile-success:before {
+  content: "\e468";
+}
+
+.sd-mobile-error:before {
+  content: "\e469";
+}
+
+.sd-manager:before {
+  content: "\e46a";
+}
+
+.sd-learning-partners:before {
+  content: "\e46b";
+}
+
+.sd-jss:before {
+  content: "\e46c";
+}
+
 .sd-users-fill-2:before {
   content: "\e46d";
+}
+
+.sd-check-verified-fill:before {
+  content: "\e46e";
+}
+
+.sd-target-point:before {
+  content: "\e46f";
+}
+
+.sd-msde:before {
+  content: "\e470";
+}
+
+.sd-file-plus:before {
+  content: "\e471";
+}
+
+.sd-fill-evaluation:before {
+  content: "\e472";
+}
+
+.sd-employment-opportunity:before {
+  content: "\e473";
+}
+
+.sd-dashboard-menu-1:before {
+  content: "\e474";
+}
+
+.sd-user-cricle-fill:before {
+  content: "\e475";
+}
+
+.sd-customer-support-1:before {
+  content: "\e476";
 }
 
 .sd-recomandation-2:before {
@@ -4731,14 +4803,6 @@
 
 .sd-international-travel:before {
   content: "\e4b0";
-}
-
-.sd-hierarchy:before {
-  content: "\e4b1";
-}
-
-.sd-grid-01-2:before {
-  content: "\e4b4";
 }
 
 .sd-graduating-girl-2:before {
