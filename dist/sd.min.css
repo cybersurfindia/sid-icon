@@ -1,18 +1,18 @@
 /*!
- *  sd-icon  v0.0.11 (Last Updated on 5th Feb 25)
- *  sd-icon icon font.
- */
+*  sd-icon  v1.0.1
+*  sd-icon icon font. (Last Updated on 10th March 25)
+*/
 @font-face {
   font-display: auto;
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./sd.eot?1738673280749);
+  src: url(./sd.eot?1743680762253);
   src: url(./sd.eot?#iefix) format("embedded-opentype"),
-    url(./sd.woff2?1738673280749) format("woff2"),
-    url(./sd.woff?1738673280749) format("woff"),
-    url(./sd.ttf?1738673280749) format("truetype"),
-    url(./sd.svg?1738673280749#sd-icon) format("svg");
+    url(./sd.woff2?1743680762253) format("woff2"),
+    url(./sd.woff?1743680762253) format("woff"),
+    url(./sd.ttf?1743680762253) format("truetype"),
+    url(./sd.svg?1743680762253#sd-icon) format("svg");
 }
 [class*=" sd-"],
 [class="sd"],
@@ -3456,8 +3456,17 @@
 .sd-customer-support-1:before {
   content: "\e476";
 }
+.sd-resource-media:before {
+  content: "\e477";
+}
 .sd-recomandation-2:before {
   content: "\e478";
+}
+.sd-evaluation-1:before {
+  content: "\e479";
+}
+.sd-employment-opportunity-2:before {
+  content: "\e47a";
 }
 .sd-users-x:before {
   content: "\e47b";
@@ -3600,14 +3609,38 @@
 .sd-scheme:before {
   content: "\e4a9";
 }
+.sd-user-bag:before {
+  content: "\e4aa";
+}
+.sd-market-place:before {
+  content: "\e4ab";
+}
 .sd-learning-head-book-education:before {
   content: "\e4ac";
+}
+.sd-helpline:before {
+  content: "\e4ad";
+}
+.sd-one-fill:before {
+  content: "\e4ae";
 }
 .sd-school:before {
   content: "\e4af";
 }
 .sd-international-travel:before {
   content: "\e4b0";
+}
+.sd-user-helpline:before {
+  content: "\e4b1";
+}
+.sd-phone-fill:before {
+  content: "\e4b2";
+}
+.sd-email-fill:before {
+  content: "\e4b3";
+}
+.sd-circle-fill:before {
+  content: "\e4b4";
 }
 .sd-graduating-girl-2:before {
   content: "\e4b5";
@@ -3647,6 +3680,9 @@
 }
 .sd-certified:before {
   content: "\e4c1";
+}
+.sd-unlock-fill:before {
+  content: "\e4c2";
 }
 .sd-certificate-01-2:before {
   content: "\e4c3";
@@ -3711,5 +3747,15 @@
 .sd-a-icon-2:before {
   content: "\e4d7";
 }
-
-/*# sourceMappingURL=sd.min.css */
+.sd-check-circle-fill:before {
+  content: "\e4d8";
+}
+.sd-bulb-fill:before {
+  content: "\e4d9";
+}
+.sd-thums-up-fill:before {
+  content: "\e4da";
+}
+.sd-thumbs-down-fill:before {
+  content: "\e4db";
+}
