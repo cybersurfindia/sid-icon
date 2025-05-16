@@ -16,8 +16,8 @@ Step - 4 -> open new "sd.min.css" file , replace "iconly" to "sd"
 
 Step - 5 -> open new "sd.min.css" file , replace comments with this below:
                 /*!
-                *  sd-icon  v0.0.9
-                *  sd-icon icon font.
+                *  sd-icon  v1.0.2
+                *  sd-icon icon font. (Last Updated on 16th May 25)
                 */
 
 Step - 6 -> open new "sd.min.css" file , add this comment at the last line of file

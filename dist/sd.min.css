@@ -1,18 +1,18 @@
 /*!
-*  sd-icon  v1.0.1
-*  sd-icon icon font. (Last Updated on 10th March 25)
+*  sd-icon  v1.0.2
+*  sd-icon icon font. (Last Updated on 16th May 25)
 */
 @font-face {
   font-display: auto;
   font-family: "sd-icon";
   font-style: normal;
   font-weight: 400;
-  src: url(./sd.eot?1743680762253);
+  src: url(./sd.eot?1747383140644);
   src: url(./sd.eot?#iefix) format("embedded-opentype"),
-    url(./sd.woff2?1743680762253) format("woff2"),
-    url(./sd.woff?1743680762253) format("woff"),
-    url(./sd.ttf?1743680762253) format("truetype"),
-    url(./sd.svg?1743680762253#sd-icon) format("svg");
+    url(./sd.woff2?1747383140644) format("woff2"),
+    url(./sd.woff?1747383140644) format("woff"),
+    url(./sd.ttf?1747383140644) format("truetype"),
+    url(./sd.svg?1747383140644#sd-icon) format("svg");
 }
 [class*=" sd-"],
 [class="sd"],
@@ -3753,9 +3753,13 @@
 .sd-bulb-fill:before {
   content: "\e4d9";
 }
-.sd-thums-up-fill:before {
+.sd-fi-sr-shield-check:before {
   content: "\e4da";
 }
-.sd-thumbs-down-fill:before {
+.sd-announcement:before {
   content: "\e4db";
 }
+.sd-youtube-fill:before {
+  content: "\e4dc";
+}
+/*# sourceMappingURL=sd.min.css */
